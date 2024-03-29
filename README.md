@@ -13,11 +13,8 @@ The Transformer model consists of an encoder-decoder structure, with each part c
 - **Self-Attention Mechanism**: Allows the model to focus on different parts of the input sequence when generating the output.
 - **Positional Encoding**: Adds information about the position of tokens in the sequence, as the Transformer does not inherently understand the order of the sequence.
 
-## Getting Started
 
-To get started with this implementation, clone the repository and follow the instructions in the README file for setting up the environment and running the code.
-
-## Resources
+## Paper
 
 For a deeper understanding of the Transformer model and its components, refer to the following resources:
 
