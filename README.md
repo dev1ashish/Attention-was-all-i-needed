@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-007ACC?style=for-the-badge&logo=nlp&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-53B7DF?style=for-the-badge&logo=transformers&logoColor=white)
+
 # Language Translation using transformers
 
 This repository contains an implementation(not completed yet due to me being compute poor) of the Transformer model as described in the paper "Attention Is All You Need" by Vaswani et al. The Transformer model is a novel architecture for handling sequential data, particularly in the field of natural language processing (NLP). It introduces the concept of self-attention, allowing the model to weigh the importance of different parts of the input sequence when generating the output.
@@ -20,11 +24,3 @@ For a deeper understanding of the Transformer model and its components, refer to
 
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-
-## Technologies Used
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-- ![AI/ML](https://img.shields.io/badge/AI/ML-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-007ACC?style=for-the-badge&logo=nlp&logoColor=white)
-- ![Transformers](https://img.shields.io/badge/Transformers-53B7DF?style=for-the-badge&logo=transformers&logoColor=white)
