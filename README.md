@@ -4,7 +4,7 @@
 
 # Language Translation using transformers
 
-This repository contains an implementation**(not completed yet due to me being compute poor)** of the Transformer model as described in the paper "Attention Is All You Need" by Vaswani et al. The Transformer model is a novel architecture for handling sequential data, particularly in the field of natural language processing (NLP). It introduces the concept of self-attention, allowing the model to weigh the importance of different parts of the input sequence when generating the output.
+This repository contains an implementation **(not completed yet due to me being compute poor)** of the Transformer model as described in the paper "Attention Is All You Need" by Vaswani et al. The Transformer model is a novel architecture for handling sequential data, particularly in the field of natural language processing (NLP). It introduces the concept of self-attention, allowing the model to weigh the importance of different parts of the input sequence when generating the output.
 
 ## Transformer Architecture Overview
 
